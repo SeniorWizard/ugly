@@ -1,11 +1,14 @@
 
-Alle sweaters scores på følgende parametre
-- Grim
+# Ugly XMAS sweater invitational 2022
+
+All sweaters are rated on the 1 to 8 scale (a byte) where 1 means "Not at all" and 8 means "100% sure"
+
+- Uglyness
+- Obscene
+- Funny
 - Hyggelig
-- Sjofel
-- Sjov
 - Karma
 
-Stemmer afgives på en skala fra 1 til 8 (en byte) hvor ''1'' er "slet ikke" og ''8'' er "motherfucking yeah"
+Where "Karma" is used for Bonus point for an espacially funny sweater or good presentation or simply "Orh I whish that was my sweater".
 
-[Stemmesedel](https://forms.gle/YqPYJ2nm4davkdRn7)
+[Voting form](https://forms.gle/YqPYJ2nm4davkdRn7)
