@@ -1,5 +1,5 @@
 
-# Ugly XMAS sweater invitational 2022
+# Ugly XMAS sweater invitational 2023
 
 All sweaters are rated on the 1 to 8 scale (a byte) where 1 means "Not at all" and 8 means "100% sure"
 
